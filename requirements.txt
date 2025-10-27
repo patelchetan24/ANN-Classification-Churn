@@ -1,7 +1,8 @@
-tenserflow
+tensorflow
 pandas
 numpy
 sckit-learn
 tenserboard
 matplotlib
+
 streamlit

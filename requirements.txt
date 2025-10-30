@@ -1,8 +1,13 @@
-tensorflow-cpu==2.15.0
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.1
-streamlit==1.37.0
+tensorflow==2.20.0
+numpy>=2.1.0
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+streamlit==1.39.0
+onnxruntime==1.19.2
+protobuf>=4.25.0
+
+
 
 
 
